@@ -2,20 +2,6 @@
 
 ## Functional Requirements Specification
 
-<style>
-@media print {
-  body { font-family: Arial, sans-serif; font-size: 10.5pt; line-height: 1.45; color: #1f2937; }
-  h1, h2, h3 { break-after: avoid-page; page-break-after: avoid; }
-  table, img, blockquote { break-inside: avoid-page; page-break-inside: avoid; }
-  table { width: 100%; border-collapse: collapse; font-size: 9pt; }
-  th, td { padding: 6px; vertical-align: top; overflow-wrap: anywhere; }
-  img { display: block; max-width: 100%; height: auto; margin: 12px auto; }
-  code { white-space: pre-wrap; overflow-wrap: anywhere; }
-  a { color: inherit; text-decoration: none; }
-  .page-break { break-after: page; page-break-after: always; }
-}
-</style>
-
 | Document field | Value |
 |---|---|
 | Project | Coffee Kiosk POS |
@@ -50,8 +36,6 @@
   - [6.3 Usability and Accessibility](#63-usability-and-accessibility)
   - [6.4 Reliability and Compatibility](#64-reliability-and-compatibility)
 - [7. Sign-off](#7-sign-off)
-
-<div class="page-break"></div>
 
 > The interface images in this document are illustrative mockups. The written requirements are the source of truth for future test scenarios, test cases, RTM, execution, and defect reporting.
 

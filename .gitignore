@@ -1,0 +1,25 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+*.bak
+
+# Logs
+*.log
+
+# Microsoft Office temporary files
+~$*.xls*
+~$*.doc*
+~$*.ppt*

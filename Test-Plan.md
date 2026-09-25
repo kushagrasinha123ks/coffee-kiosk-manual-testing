@@ -2,20 +2,6 @@
 
 ## Test Plan
 
-<style>
-@media print {
-  body { font-family: Arial, sans-serif; font-size: 10.5pt; line-height: 1.45; color: #1f2937; }
-  h1, h2, h3 { break-after: avoid-page; page-break-after: avoid; }
-  table, img, blockquote { break-inside: avoid-page; page-break-inside: avoid; }
-  table { width: 100%; border-collapse: collapse; font-size: 9pt; }
-  th, td { padding: 6px; vertical-align: top; overflow-wrap: anywhere; }
-  img { display: block; max-width: 100%; height: auto; margin: 12px auto; }
-  code { white-space: pre-wrap; overflow-wrap: anywhere; }
-  a { color: inherit; text-decoration: none; }
-  .page-break { break-after: page; page-break-after: always; }
-}
-</style>
-
 | Document field | Value |
 |---|---|
 | Project | Coffee Kiosk POS |
@@ -52,8 +38,6 @@
 - [12. Risks and Mitigation](#12-risks-and-mitigation)
 - [13. Test Deliverables](#13-test-deliverables)
 - [14. Approvals and Sign-off](#14-approvals-and-sign-off)
-
-<div class="page-break"></div>
 
 > This plan becomes the active QA baseline after the referenced FRS and this Test Plan are approved. Material requirement changes require impact analysis and plan updates.
 

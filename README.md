@@ -1,19 +1,5 @@
 # Coffee Kiosk POS - Manual Testing Project
 
-<style>
-@media print {
-  body { font-family: Arial, sans-serif; font-size: 10.5pt; line-height: 1.45; color: #1f2937; }
-  h1, h2, h3 { break-after: avoid-page; page-break-after: avoid; }
-  table, img, blockquote { break-inside: avoid-page; page-break-inside: avoid; }
-  table { width: 100%; border-collapse: collapse; font-size: 9pt; }
-  th, td { padding: 6px; vertical-align: top; overflow-wrap: anywhere; }
-  img { display: block; max-width: 100%; height: auto; margin: 12px auto; }
-  code { white-space: pre-wrap; overflow-wrap: anywhere; }
-  a { color: inherit; text-decoration: none; }
-  .page-break { break-after: page; page-break-after: always; }
-}
-</style>
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -21,8 +7,6 @@
 - [Documents in Testing Order](#documents-in-testing-order)
 - [Traceability Flow](#traceability-flow)
 - [Project Structure](#project-structure)
-
-<div class="page-break"></div>
 
 ## Project Overview
 
